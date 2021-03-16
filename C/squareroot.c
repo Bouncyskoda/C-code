@@ -26,4 +26,4 @@ float squareroot(float a){
 	return s;
 	
 }
-ls
+
